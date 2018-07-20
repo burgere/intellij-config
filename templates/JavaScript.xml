@@ -1,0 +1,6 @@
+<templateSet group="JavaScript">
+  <template name="arrow" value="($arguments$) =&gt; $statement$" description="Inserts arrow function" toReformat="false" toShortenFQNames="true">
+    <variable name="arguments" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="statement" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+</templateSet>
